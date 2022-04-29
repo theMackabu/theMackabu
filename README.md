@@ -1,16 +1,12 @@
-### Hello there - 
+###### “Hello there.”
+###### “General kenobi.”
+###### “You're Shorter Than I Expected.”
 
+#
 
-
-
-
-
-
-
-# General kenobi
-
-###### Please ignore archived repositories (they are not good)
-##### check out [gamespeed](https://github.com/gamesrv)
+##### 🔭 I’m currently working on [gamespeed](https://github.com/gamesrv)
+##### 📦 Please ignore archived repositories (they are not good)
+##### 🎮 check out [gamespeed](https://github.com/gamesrv) (its cool)
 
 ![Stats bc why not](https://github-readme-stats.vercel.app/api?username=themackabu&count_private=true&show_icons=true&include_all_commits=true&v=174&theme=dark)
 
@@ -18,7 +14,7 @@
 
 
 ###### 🤔 Have a joke...
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=prussian)
 
 <!--
 **theMackabu/theMackabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
