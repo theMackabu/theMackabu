@@ -9,6 +9,9 @@
 
 # General kenobi
 
+###### Please ignore archived repositories (they are not good)
+##### check out [gamespeed](https://github.com/gamesrv)
+
 ![Stats bc why not](https://github-readme-stats.vercel.app/api?username=themackabu&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themackabu&layout=compact)
