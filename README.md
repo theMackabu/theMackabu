@@ -25,7 +25,7 @@
 
 ![Stats bc why not](https://github-readme-stats.vercel.app/api?username=themackabu&count_private=true&show_icons=true&include_all_commits=true&v=174&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themackabu&layout=compact&v=174&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theMackabu&layout=compact&hide=ruby&langs_count=10&v=174&theme=dark)
 
 
 ###### 🤔 Have a joke...
