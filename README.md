@@ -2,7 +2,7 @@
   Hi there 👋
 </h1>
 
-<img align="right" src="https://readme-card-themackabu.vercel.app/api/top-langs/?username=theMackabu&hide=ruby,java&langs_count=10&v=174&theme=dark&langs_count=10&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages">
+<a href="#"><img align="right" src="https://readme-card-themackabu.vercel.app/api/top-langs/?username=theMackabu&hide=ruby,java&langs_count=10&v=174&theme=dark&langs_count=10&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages"></a>
 
 ### 🙋 Welcome to the my Github profile!
 
