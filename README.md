@@ -1,6 +1,6 @@
 <h1 align="center">
 <!--    <a href="https://e-z.bio/uwudev"><img src="https://user-images.githubusercontent.com/32078755/210117057-24b6dd65-69d0-4744-9481-5971b97989b0.png" width="80px" alt="image profile"></a> -->
-  <br/>
+  <!-- <br/> -->
   Hi there 👋
 </h1>
 
