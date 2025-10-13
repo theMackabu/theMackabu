@@ -2,7 +2,7 @@
 	 <a href="#"><img width="50" src="me.png"></a>
 </p>
 
-<a href="#"><img align="right" src="https://readme-card-themackabu.vercel.app/api/top-langs/?username=theMackabu&hide=java,html,ruby,roff&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&exclude_repo=readme-card,ember,twitter,voteit,recycle_saas,StudentInfoSystem,ghostty,dot" height="220px" alt="Most used languages"></a>
+<a href="#"><img align="right" src="https://readme-card-themackabu.vercel.app/api/top-langs/?username=theMackabu&hide=java,html,ruby,roff&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&exclude_repo=readme-card,ember,twitter,voteit,recycle_saas,StudentInfoSystem,ghostty,dot,phorge" height="220px" alt="Most used languages"></a>
 
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
