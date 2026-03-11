@@ -22,3 +22,4 @@
 <a href="#"><img src="badges/personal.svg" alt="Personal Badge"></a>
 <a href="#"><img src="badges/furry.svg" alt="Furry Badge"></a>
 <a href="#"><img src="badges/rust.svg" alt="Rust Badge"></a>
+<a href="#"><img src="badges/ant.svg" alt="Ant Badge"></a>
