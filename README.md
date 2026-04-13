@@ -1,5 +1,5 @@
 <p align="center">
-	 <a href="#"><img width="50" src="me.png"></a>
+	 <a href="#"><img width="50" src="emoji5.png"></a>
 </p>
 
 <a href="#"><img align="right" src="https://readme-card-themackabu.vercel.app/api/top-langs/?username=theMackabu&hide=java,html,ruby,roff&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&exclude_repo=readme-card,ember,twitter,voteit,recycle_saas,StudentInfoSystem,ghostty,dot,phorge,cluely-monorepo,vscode,javascript-zoo" height="220px" alt="Most used languages"></a>
